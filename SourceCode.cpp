@@ -1,7 +1,6 @@
 /*
 Program: Calculate a Discount Percentage
 Programmer: Bishop Ross
-Date: 11/13/2019
 Purpose: Demonstrate writing a simple class that calculates a discount percentage
 based on age and whether the person is an AARP member.
 */
