@@ -6,7 +6,6 @@ using namespace std;
 /*
 	 Program: Using Aggregation/Composition
 	 Programmer: Bishop Ross
-	 Date: 12/7/2019
 	 Purpose: Demonstrate classes related by composition and aggregation; We will code                 a Bank class that contains an object of the Lobby class which contains an object of               the ATM class.
 */
 
