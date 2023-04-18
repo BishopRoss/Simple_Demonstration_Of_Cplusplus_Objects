@@ -1,7 +1,6 @@
 /*
 	   Program: Exercise 6 Pirate Program
 	   Programmer: Bishop Ross
-	   Date:12/15/2019
 	   Purpose: To practice using an abstract parent class.
 */
 #include"Pirate.h"
