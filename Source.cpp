@@ -6,7 +6,6 @@ using namespace std;
 /*
 	   Program: Vessel Inheritance Hierarchy
 	   Programmer: Your Name
-	   Date:
 	   Purpose: Demonstrate classes related by inheritance. The base class is Vessel. Two
 	   more specific classes inherit from Vessel: Sailboat and Powerboat.
 */
