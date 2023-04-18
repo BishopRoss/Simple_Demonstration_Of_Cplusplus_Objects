@@ -4,7 +4,6 @@ using namespace std;
 /*
 	 Program: Composition
 	 Programmer: Bishop Ross
-	 Date: 12/8/2019
 	 Purpose: To practice composition              
 */
 
