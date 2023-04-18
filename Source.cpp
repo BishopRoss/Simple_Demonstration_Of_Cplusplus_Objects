@@ -1,7 +1,6 @@
 /*
  Programmer Name: Bishop Ross
  Program: Zoo Class
- Date: 11/14/2019
  Purpose: Demonstrate coding a simple class and creating objects from it.
 */
 
